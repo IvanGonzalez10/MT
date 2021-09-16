@@ -1,0 +1,215 @@
+ {
+font-family: "Poppins", sans-serif;
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+.uno a{
+	text-decoration: none;
+	display: block;
+	border: 1px solid #28B19D;
+	border-radius: 45%;
+	width: 200px;
+	height: 35px;
+	text-align: center;
+	padding-top: 15px;
+	margin: auto;
+
+	background-color:#2271B4;
+	color: #fff;
+	font-family: arial;
+	box-shadow: -3px 3px 10px #000;
+	text-shadow: -3px 3px 10px #000;
+
+	transition: 1s;
+	-webkit-transition:  1s;
+	-o-transition:  1s;
+	-moz-transition:  1s;
+	-ms-transition:  1s;
+}
+.uno a:hover{
+	background-color: #fff;
+	color: black;
+}
+
+.dos a{
+	text-decoration: none;
+	display: block;
+	border: 1px solid #28B19D;
+	border-radius: 45%;
+	width: 200px;
+	height: 35px;
+	text-align: center;
+	padding-top: 15px;
+	margin: auto;
+
+	background-color:#2271B4;
+	color: #fff;
+	font-family: arial;
+	box-shadow: -3px 3px 10px #000;
+	text-shadow: -3px 3px 10px #000;
+
+	transition: 1s;
+	-webkit-transition:  1s;
+	-o-transition:  1s;
+	-moz-transition:  1s;
+	-ms-transition:  1s;
+}
+.dos a:hover{
+	background-color: #fff;
+	color: black;
+}
+
+.tres a{
+	text-decoration: none;
+	display: block;
+	border: 1px solid #28B19D;
+	border-radius: 45%;
+	width: 200px;
+	height: 35px;
+	text-align: center;
+	padding-top: 15px;
+	margin: auto;
+
+	background-color:#2271B4;
+	color: #fff;
+	font-family: arial;
+	box-shadow: -3px 3px 10px #000;
+	text-shadow: -3px 3px 10px #000;
+
+	transition: 1s;
+	-webkit-transition:  1s;
+	-o-transition:  1s;
+	-moz-transition:  1s;
+	-ms-transition:  1s;
+}
+.tres a:hover{
+	background-color: #fff;
+	color: black;
+}
+
+.registro a{
+	text-decoration: none;
+	display: block;
+	border: 1px solid #28B19D;
+	border-radius: 45%;
+	width: 200px;
+	height: 35px;
+	text-align: center;
+	padding-top: 15px;
+	margin: auto;
+
+	background-color:#2271B4;
+	color: #fff;
+	font-family: arial;
+	box-shadow: -3px 3px 10px #000;
+	text-shadow: -3px 3px 10px #000;
+
+	transition: 1s;
+	-webkit-transition:  1s;
+	-o-transition:  1s;
+	-moz-transition:  1s;
+	-ms-transition:  1s;
+}
+.registro a:hover{
+	background-color: #fff;
+	color: black;
+}
+
+
+
+.descripcion{
+	text-align: center;
+	padding: 10px;
+	color: black;
+}
+
+
+p{
+	padding: 10px;
+}
+
+.card{
+	width: 100%;
+	display: flex;
+	gap: 50px;
+	flex-wrap: wrap;
+	justify-content: center;
+	margin-top: 20px;
+}
+
+.card_button{
+	padding: 15px 25px;
+	color: blue;
+	text-align: center;
+}
+
+.enlace{
+	background: rgb(0, 110, 255);
+	padding: 10px 30 px;
+	color: white;
+	text-decoration: none;
+}
+
+.card_nombre{
+	width: 300px;
+	padding: 20px;
+	box-shadow: 1px 1px 5px rgb(200, 200, 200);
+	border: solid rgb(3, 133, 255, 0) 2px;
+	border-radius: 10px;
+
+}
+
+
+
+
+
+
+#modo{
+	width: 30px;
+	font-size:70px;
+	margin:  auto;
+	cursor: pointer;
+
+}
+
+.dark{
+	background: rgb(4, 24, 27);
+}
+
+.dark h1{
+	color: white;
+}
+
+.dark h2{
+	color: white;
+}
+
+.dark .descripcion{
+	color: whitesmoke;
+}
+
+.dark .regitro{
+	color: white;
+}
+
+.dark #modo{
+	color: blue;
+}
+
+.dark p{
+	color: white;
+}
+
+.dark #registro{
+	color: white;
+}
+
+.dark .enlace{
+	color: white;
+}
+
+.dark .enlace:hover{
+	border: solid blue;
+}
